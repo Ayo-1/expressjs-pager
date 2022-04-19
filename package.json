@@ -28,11 +28,10 @@
   "scripts": {
     "test": ""
   },
-  "devDependencies": {
-  },
   "keywords": [],
   "dependencies": {
-    "pug": "^3.0.2",
-    "lodash": "^3.10.1"
+    "lodash": "^3.10.1",
+    "pager-expressjs": "^1.0.8",
+    "pug": "^3.0.2"
   }
 }
