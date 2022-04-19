@@ -1,7 +1,7 @@
 {
   "name": "pager-expressjs",
   "description": "Easy Pagination with Express, Nodejs",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "homepage": "https://github.com/ayo-1/pager-expressjs",
   "author": {
     "name": "Ayomide Oloyede",
@@ -21,7 +21,7 @@
       "url": "https://github.com/ayo-1/pager-expressjs/blob/master/LICENSE-MIT"
     }
   ],
-  "main": "lib/express-pager",
+  "main": "lib/pager",
   "engines": {
     "node": ">= 8.0.0"
   },
