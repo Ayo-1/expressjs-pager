@@ -17,7 +17,7 @@ var pager = require('express-pager')({
 ### Usage
 
 ```javascript
-var pager = require('expressjs-pager')();
+var pager = require('pager-expressjs')();
 var data = new Array(95);
 
 var PER_PAGE = 10;
