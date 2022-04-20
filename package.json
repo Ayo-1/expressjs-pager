@@ -1,7 +1,7 @@
 {
   "name": "pager-expressjs",
   "description": "Easy Pagination with Express, Nodejs",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "homepage": "https://github.com/ayo-1/pager-expressjs",
   "author": {
     "name": "Ayomide Oloyede",
