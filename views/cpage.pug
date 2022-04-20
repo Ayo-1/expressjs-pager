@@ -2,4 +2,4 @@ li(class=page.isCurrent ? 'active' + temp.li : temp.li)
 	if page.isCurrent
 		a #{page.page}
 	else
-		a(href='#{baseUrl}?page=#{page.page}' class='#{temp.a}') #{page.page}
+		a(href='${baseUrl}?page=${page.page}' class='' + temp.a) #{page.page}
